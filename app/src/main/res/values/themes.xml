@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.Material3.Light">
+        <item name="titleTextColor">@color/old_coper</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        <item name="android:statusBarColor">@color/old_coper</item>
+    </style>
+</resources>
